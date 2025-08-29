@@ -1,0 +1,6 @@
+
+id,name,type,city,state,services,brands,verticals,verified,years,website,about
+c1,North Star Low Voltage,contractor,Minneapolis,MN,"Fiber Termination;DAS;CCTV","Ortronics;Pelco;WilsonPro","Healthcare;Higher-Ed",true,12,https://northstarlowvoltage.example.com,"Design and install teams specializing in fiber, DAS and camera systems across MN/ND/SD."
+c2,Dakota Data & Power,contractor,Fargo,ND,"Network Cabling;Testing;Access Control","Superior Essex;Legrand Ortronics","Industrial;Logistics",false,6,https://dakotadp.example.com,"Turn-key low-voltage builds and maintenance. Rapid response across the Red River Valley."
+c3,"Twin Ports Distribution — Duluth Branch",distributor,Duluth,MN,"Counter Sales;Pickup;Local Delivery","Superior Essex;Great Lakes;WilsonPro",All,true,20,https://twinportsdist.example.com,"Stocked branch for cabling, racks, cabinets, and cellular enhancement gear. Counter 7am–5pm."
+c4,Prairie Vision Integrators,contractor,Sioux Falls,SD,"Cameras & VMS;Access Control;Commissioning","Pelco;Hanwha","Healthcare;Retail",true,9,https://prairievision.example.com,"Healthcare-grade security deployments with certified commissioning and service SLAs."
